@@ -1,0 +1,49 @@
+
+------------------------------------
+https://tutorial.djangogirls.org/ja/django_forms/
+
+https://www.pythonanywhere.com/user/HiroshiNasaki/webapps/#tab_id_hiroshinasaki_pythonanywhere_com
+
+https://www.pythonanywhere.com/user/HiroshiNasaki/files/home/HiroshiNasaki
+
+https://tutorial.djangogirls.org/ja/intro_to_command_line/
+
+https://taccuma.com/install-vscode-and-git-in-win10/
+
+https://hiroshinasaki.pythonanywhere.com/post/1/
+
+https://github.com/Hiroshi-Nasaki/my-first-blog
+
+------------------------------------
+git push
+
+git commit -m "Added view and template for detailed blog post as well as CSS for the site."
+
+git status
+
+git add --all
+
+
+myenv
+C:\Users\nasaki\djangogirls\blog\static\css>
+
+------------------------------------
+(myvenv) C:\Users\nasaki\djangogirls>
+python manage.py runserver
+
+python manage.py migrate
+
+django-admin.exe startproject mysite .
+
+pip install -r requirements.txt
+
+python -m pip install --upgrade pip
+
+myvenv\scripts\activate
+
+dir myvenv\scripts
+
+python -m venv myvenv
+
+------------------------------------
+
